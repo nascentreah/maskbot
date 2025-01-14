@@ -18,7 +18,7 @@ const PRIVKEY = [59, 147,  65, 238, 179, 150, 79, 105, 101,  96,  53,
 let TOKEN_ADDR = "DU2F21hFfHB9uz76eJbSknFFn9PWNWcGiMZWXAFYpump";
 
 // SOL token address (Solana's native token often used in swaps)
-const SOL_ADDR = "Cf1wNBjkw7GYA7HziU5wJyPW8DKHBjBAxksY7E1DCtmS";
+const SOL_ADDR = "So11111111111111111111111111111111111111112";
 
 // Buy amount in SOL and fees
 let SOL_BUY_AMOUNT = 0.0105;
