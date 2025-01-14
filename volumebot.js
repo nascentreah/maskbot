@@ -4,7 +4,7 @@ import { Buffer } from "buffer";
 import TelegramBot from "node-telegram-bot-api";
 
 // Solana RPC URL
-const RPC_URL = "https://api.mainnet-beta.solana.com";
+const RPC_URL = "https://mainnet.helius-rpc.com/?api-key=0dd5ca1d-fe94-4bab-8e18-630d505aa59f";
 
 // User's private key (must be in Uint8Array format)
 const PRIVKEY = [59, 147,  65, 238, 179, 150, 79, 105, 101,  96,  53,
